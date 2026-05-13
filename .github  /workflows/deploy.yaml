@@ -14,8 +14,8 @@ on:
 
 env:
   AWS_REGION: ap-south-1
-  S3_BUCKET: education-conclave-ag
-  CLOUDFRONT_DISTRIBUTION_ID: E3HJ306130QENT
+  S3_BUCKET: narishakti-ag
+  CLOUDFRONT_DISTRIBUTION_ID: E2698MNXXU7B4X
 
 permissions:
   id-token: write
